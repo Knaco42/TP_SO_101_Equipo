@@ -3,3 +3,4 @@
 
 1-Sisi
 2_Si ALFA agrega un archivo en el repositorio y lo subió, todos los integrantes lo deberíamos poder ver.
+3_Si Beta agrega el archivo y le hace un push los demas integrantes lo ven.
